@@ -4,7 +4,7 @@
   I did allow tolerances for fitting, however depending on your Printer you may need to adjust
   the temp accordingly if parts fit two tight print them a bit cooler. it will make a huge difference.
   
-  The Display is PCB compliant if you wish to mount them on one.
+  The Display is PCB compliant (can be tiled) if you wish to mount them on one.
   driven by 74HC595 shift register or for audio a LM3914. 
   
   ![alt text](images/10-seg-bar-graph.png)
